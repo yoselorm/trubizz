@@ -87,7 +87,8 @@
                     </div><!-- /.title -->
                     <p>Material :  Cotton / Polyester / nylon <br/>Sizes: s M L XL XXL<br/>Color: any<br/> <span style="font-weight: 500; color:darkcyan;">Minimum Orders: 50</span></p>             
                     <p>Elevate your style with our premium polo shirts. Crafted from high-quality materials and available in a range of sizes and colors, our polo shirts blend comfort with sophistication. Perfect for both casual outings and business settings, our shirts offer versatility and timeless elegance. Experience the perfect combination of fashion and functionality with our polo shirts</p>
-                    <a href="tel:030 396 4289" class="thm-btn blue-bg">Call for price</a>
+                    <a  onclick="replacePriceText('call-price-btn')" id="call-price-btn" href="tel:030 396 4289" class="thm-btn blue-bg">Call for price</a>
+
                 </div><!-- /.welcome-content -->
             </div><!-- /.col-md-6 -->
         </div><!-- /.row -->

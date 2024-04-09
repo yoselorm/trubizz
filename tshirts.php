@@ -104,7 +104,7 @@
                     </div><!-- /.title -->
                     <p>Material :  Cotton / Polyester / nylon <br/>Sizes: s M L XL XXL<br/>Color: any<br/> <span style="font-weight: 500; color:darkcyan;">Minimum Orders: 50</span></p>             
                     <p>Experience comfort and style with our collection of premium T-shirts. Crafted from a blend of high-quality materials, our T-shirts offer unrivaled comfort and durability. Available in a variety of sizes and colors, our T-shirts are designed to complement any look or occasion. Whether you're dressing for a casual outing or relaxing at home, our T-shirts are the perfect choice.</p>
-                    <a href="tel:030 396 4289" class="thm-btn blue-bg">Call for price</a>
+                    <a  onclick="replacePriceText('shirt-price-btn')" id="shirt-price-btn" href="tel:030 396 4289" class="thm-btn blue-bg">Call for price</a>
                 </div><!-- /.welcome-content -->
             </div><!-- /.col-md-6 -->
         </div><!-- /.row -->

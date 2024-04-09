@@ -88,7 +88,7 @@
                     </div><!-- /.title -->
                     <p> Material: Plastic / Metalic / Wooden <br/> <span style="font-weight: 500; color:darkcyan;">Minimum Orders: 50</span></p>             
                     <p>Enhance your everyday essentials with our diverse selection of key rings. Designed from high-quality materials including durable plastic, sleek metallics, and eco-friendly wood, our key rings offer both practicality and style. Keep your keys organized in personalized fashion, whether for home, office, or promotional purposes. With customizable options and minimum orders starting at just 50 units, make your mark with our unique key rings.</p>
-                    <a href="tel:030 396 4289" class="thm-btn blue-bg">Call for price</a>
+                    <a  onclick="replacePriceText('key-price-btn')" id="key-price-btn" href="tel:030 396 4289" class="thm-btn blue-bg">Call for price</a>
                 </div><!-- /.welcome-content -->
             </div><!-- /.col-md-6 -->
         </div><!-- /.row -->

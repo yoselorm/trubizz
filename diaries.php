@@ -83,11 +83,11 @@
             <div class="col-md-6">
                 <div class="welcome-content">
                     <div class="title">
-                        <h3>Diaries</h3>
+                        <h3>DIARIES</h3>
                     </div><!-- /.title -->
-                    <p> Pages: 50 / 100 / 200 <br />Cover finish: Card / Leather<br />Inlet Gramage: 60 / 80 <span style="font-weight: 500; color:darkcyan;">Minimum Orders: 50</span></p>
+                    <p> Pages: 50 / 100 / 200 <br />Cover finish: Card / Leather<br />Inlet Gramage: 60 / 80 <br/> <span style="font-weight: 500; color:darkcyan;">Minimum Orders: 50</span></p>
                     <p>Capture your thoughts with flair in our stylish diaries. From elegant covers to intricate designs, each diary is a blend of sophistication and functionality. Perfect for planning, journaling, or note-taking, our diaries elevate your writing experience. Make your mark with our exquisite collection.</p>
-                    <a href="tel:030 396 4289" class="thm-btn blue-bg">Call for price</a>
+                    <a  onclick="replacePriceText('diaries-price-btn')" id="diaries-price-btn" href="tel:030 396 4289" class="thm-btn blue-bg">Call for price</a>
                 </div><!-- /.welcome-content -->
             </div><!-- /.col-md-6 -->
         </div><!-- /.row -->

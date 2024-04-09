@@ -88,7 +88,7 @@
                     </div><!-- /.title -->
                     <p> Material: Plastic / Metalic / Wooden <br/> Type: Press / twist<br/><span style="font-weight: 500; color:darkcyan;">Minimum Orders: 50</span></p>             
                     <p>Indulge in the smooth writing experience of our premium pens. Shaped with precision and sophistication, our pens effortlessly glide across paper, making every stroke a pleasure. Elevate your writing style with our sleek designs and high-quality materials. Perfect for everyday use or gifting, our pens are sure to leave a lasting impression. Upgrade your writing essentials today.</p>
-                    <a href="tel:030 396 4289" class="thm-btn blue-bg">Call for price</a>
+                    <a  onclick="replacePriceText('pen-price-btn')" id="pen-price-btn" href="tel:030 396 4289" class="thm-btn blue-bg">Call for price</a>
                 </div><!-- /.welcome-content -->
             </div><!-- /.col-md-6 -->
         </div><!-- /.row -->
